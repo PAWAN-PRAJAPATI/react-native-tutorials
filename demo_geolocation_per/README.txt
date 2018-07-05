@@ -1,0 +1,1 @@
+For permission dialog change targetSdkVersion from 22 to 23. 
